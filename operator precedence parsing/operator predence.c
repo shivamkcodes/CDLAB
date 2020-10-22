@@ -15,6 +15,7 @@ void main()
     printf("1816110190\n");
     char grm[20][20], c;
 
+
     int i, n, j = 2, flag = 0;
 
     scanf("%d", &n);
